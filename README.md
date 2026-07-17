@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Attend-AI](https://attend-ai-landing.vercel.app/)
 
-- 🌱 I’m currently learning **Agentic AI,RAG,NLP,Transformers,LangChain,GAN's**
+- 🌱 I’m currently learning **Agentic AI, RAG, NLP, Transformers, LangChain, GAN's**
 
 - 📫 How to reach me **kalyansai956@gmail.com**
 
