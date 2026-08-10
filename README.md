@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/linkedin-banner.png" alt="Banner" width="100%">
-</p>
+</p> -->
 
 <h3 align="center">AI Engineer | Machine Learning | Full Stack AI Developer</h3>
 
