@@ -1,4 +1,4 @@
-<h3 align="center">AI Engineer | Machine Learning | Full Stack AI Developer</h3>
+# Sai Kalyan Pasupuleti
 
 > I build intelligent software that solves real-world problems.
 
@@ -9,7 +9,7 @@ AI Engineer and Full Stack Developer building AI-powered applications, machine l
 ## What I've built
 
 **MeetMind — AI-Powered Meeting Platform**  
-AI-powered meeting platform designed to improve productivity by combining real-time collaboration with intelligent focus detection. Built to understand meeting participation and detect attention/focus during sessions.
+AI-powered meeting platform designed to improve productivity by combining real-time collaboration with intelligent focus detection. Built to understand meeting participation and detect attention and focus during sessions.
 
 [GitHub](https://github.com/KalyanSai956) · [Live](https://saikalyan-portfolio.vercel.app/)
 
@@ -32,13 +32,13 @@ Machine learning regression project that predicts Bangalore house prices using p
 
 ## What I work on
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Computer Vision & Voice AI
-- 🔎 RAG & AI-powered applications
-- 🌐 Full Stack Web Development
-- ⚡ Backend APIs & scalable systems
-- 📊 Data Science & Machine Learning
-- 🔐 Authentication & secure application architecture
+- Artificial Intelligence and Machine Learning
+- Computer Vision and Voice AI
+- RAG and AI-powered applications
+- Full Stack Web Development
+- Backend APIs and scalable systems
+- Data Science and Machine Learning
+- Authentication and secure application architecture
 
 ---
 
@@ -47,38 +47,30 @@ Machine learning regression project that predicts Bangalore house prices using p
 
 ---
 
-## 🎓 Education
+## Education
 
 **Mohan Babu University**  
-B.Tech — Computer Science & Engineering
+B.Tech — Computer Science and Engineering
 
 ---
 
-## 🌐 Find me
+## Find me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saikalyan--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saikalyan-portfolio.vercel.app/)
+Portfolio → [https://saikalyan-portfolio.vercel.app/](https://saikalyan-portfolio.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikalyanpasupuleti/)
+GitHub → [https://github.com/KalyanSai956](https://github.com/KalyanSai956)
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kalyanworkspace)
+LinkedIn → [https://linkedin.com/in/saikalyanpasupuleti/](https://linkedin.com/in/saikalyanpasupuleti/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalyansai956@gmail.com)
+Twitter/X → [https://x.com/kalyanworkspace](https://x.com/kalyanworkspace)
+
+Email → [kalyansai956@gmail.com](mailto:kalyansai956@gmail.com)
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=KalyanSai956&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=KalyanSai956&theme=dark&hide_border=false)<br/>
+## Most Used Languages
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KalyanSai956&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KalyanSai956&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
