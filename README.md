@@ -1,4 +1,4 @@
-# Sai Kalyan Pasupuleti
+# Pasupuleti Sai Kalyan 
 
 > I build intelligent software that solves real-world problems.
 
@@ -13,7 +13,7 @@ AI-powered meeting platform designed to improve productivity by combining real-t
 
 [GitHub](https://github.com/KalyanSai956) · [Live](https://saikalyan-portfolio.vercel.app/)
 
-**Medora — Pharmacy Management System**  
+**CarePlus — Pharmacy Management System**  
 Full-stack pharmacy management platform for managing medicines, inventory, sales and invoices. Includes stock tracking, expiry monitoring, low-stock alerts, invoice generation and sales analytics.
 
 [GitHub](https://github.com/KalyanSai956) · [Live](https://saikalyan-portfolio.vercel.app/)
@@ -23,8 +23,8 @@ AI-powered attendance system using face and voice recognition to identify studen
 
 [GitHub](https://github.com/KalyanSai956)
 
-**Bangalore House Price Prediction**  
-Machine learning regression project that predicts Bangalore house prices using property features and data preprocessing techniques. Built with Python, Pandas, NumPy, Matplotlib and Scikit-learn.
+**SmartHire ATS**  
+AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, provides ATS scores.
 
 [GitHub](https://github.com/KalyanSai956)
 
