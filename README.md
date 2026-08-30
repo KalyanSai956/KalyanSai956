@@ -5,10 +5,6 @@
 AI Engineer and Full Stack Developer building AI-powered applications, machine learning systems, and scalable web platforms, with a focus on RAG, LLMs, and AWS.
 
 ---
-
-## Tech Stack
-
-`JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `MySQL` `Supabase` `Docker` `Kubernetes` `Git` `GitHub` `REST APIs` `JWT` `Tailwind CSS` `Vite` `Streamlit``AI/ML`
 ## What I've built
 | **Project** | **What it does** | **Stack** | **Live** |
 |---|---|---|---|
@@ -17,6 +13,10 @@ AI Engineer and Full Stack Developer building AI-powered applications, machine l
 | [AttendAI](https://github.com/KalyanSai956) | AI-powered attendance system using face and voice recognition to identify students and automate attendance. | Python | — |
 | [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores. | — | — |
 
+
+## Tech Stack
+
+`JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `MySQL` `Supabase` `Docker` `Kubernetes` `Git` `GitHub` `REST APIs` `JWT` `Tailwind CSS` `Vite` `Streamlit``AI/ML`
 
 ---
 ## Find me
@@ -27,7 +27,7 @@ GitHub → [https://github.com/KalyanSai956](https://github.com/KalyanSai956)
 
 LinkedIn → [https://linkedin.com/in/saikalyanpasupuleti/](https://linkedin.com/in/saikalyanpasupuleti/)
 
-Twitter/X → [https://x.com/kalyanworkspace](https://x.com/kalyanworkspace)
+Twitter → [https://x.com/kalyanworkspace](https://x.com/kalyanworkspace)
 
 Email → [kalyansai956@gmail.com](mailto:kalyansai956@gmail.com)
 
