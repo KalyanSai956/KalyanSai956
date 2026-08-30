@@ -27,47 +27,12 @@ AI Engineer and Full Stack Developer building AI-powered applications, machine l
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 ## What I've built
-## What I've built
-
-**MeetMind — AI Meeting Intelligence Platform**  
-AI meeting intelligence platform that converts meeting conversations into structured summaries, key decisions, and actionable tasks. Designed to improve productivity by making meeting outcomes easier to understand and follow up on.
-
-[GitHub](https://github.com/KalyanSai956)
-
-**CarePlus — Healthcare Management Platform**  
-Full-stack healthcare platform for managing patients, healthcare services, and appointment workflows. Designed to simplify interactions between patients and healthcare providers.
-
-[GitHub](https://github.com/KalyanSai956)
-
-**AttendAI — AI Attendance System**  
-AI-powered attendance management system designed to automate attendance tracking using face and voice recognition. Includes intelligent student identification and attendance management through a Streamlit-based interface.
-
-[GitHub](https://github.com/KalyanSai956)
-
-**SmartHire ATS — Applicant Tracking System**  
-AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and generates ATS compatibility scores to streamline the recruitment process.
-
-[GitHub](https://github.com/KalyanSai956)
-
-**NutriAI — Nutrition Tracking Platform**  
-Nutrition tracking application that helps users understand their food intake, log meals efficiently, and stay consistent with their health and nutrition goals.
-
-[GitHub](https://github.com/KalyanSai956) · [Live](https://mynutriai.app)
-
-**FinanceFlow — Personal Finance Platform**  
-Personal finance learning and management platform designed to make financial literacy simple, interactive, and practical, with community-driven development and contributions.
-
-[GitHub](https://github.com/KalyanSai956) · [Demo](https://github.com/KalyanSai956)
-
-**Escrow — Solana Escrow Program**  
-Blockchain-based escrow program built on Solana for enabling trustless SPL token swaps using Rust and Anchor.
-
-[GitHub](https://github.com/KalyanSai956)
-
-**OS First Mate — Open-Source AI Command Center**  
-AI command center for open-source maintainers that provides project briefs, issue triage, duplicate detection, contributor health insights, and release support.
-
-[GitHub](https://github.com/KalyanSai956) · [Demo](https://github.com/KalyanSai956)
+| **Project** | **What it does** | **Stack** | **Live** |
+|---|---|---|---|
+| [MeetMind](https://github.com/KalyanSai956) | AI-powered meeting platform designed to improve productivity by combining real-time collaboration with intelligent focus detection. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
+| [CarePlus](https://github.com/KalyanSai956) | Full-stack pharmacy management platform for managing medicines, inventory, sales and invoices. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
+| [AttendAI](https://github.com/KalyanSai956) | AI-powered attendance system using face and voice recognition to identify students and automate attendance. | Python | — |
+| [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores. | — | — |
 
 
 ---
