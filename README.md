@@ -8,11 +8,7 @@ AI Engineer and Full Stack Developer building AI-powered applications, machine l
 
 ## Tech Stack
 
-`JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `MySQL` `Supabase` `Docker` `Kubernetes`
-
-`Git` `GitHub` `REST APIs` `JWT` `Tailwind CSS` `Vite` `Streamlit`
-
-`AI/ML` `Face Recognition` `Voice Recognition`
+`JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `MySQL` `Supabase` `Docker` `Kubernetes` `Git` `GitHub` `REST APIs` `JWT` `Tailwind CSS` `Vite` `Streamlit``AI/ML`
 ## What I've built
 | **Project** | **What it does** | **Stack** | **Live** |
 |---|---|---|---|
