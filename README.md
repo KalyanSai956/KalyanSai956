@@ -10,8 +10,8 @@ AI Engineer and Full Stack Developer building AI-powered applications, machine l
 |---|---|---|---|
 | [MeetMind](https://github.com/KalyanSai956) | AI-powered meeting platform designed to improve productivity by combining real-time collaboration with intelligent focus detection. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
 | [CarePlus](https://github.com/KalyanSai956) | Full-stack pharmacy management platform for managing medicines, inventory, sales and invoices. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
-| [AttendAI](https://github.com/KalyanSai956) | AI-powered attendance system using face and voice recognition to identify students and automate attendance. | Python | — |
-| [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores. | — | — |
+| [AttendAI](https://github.com/KalyanSai956) | AI-powered attendance system using face and voice recognition to identify students and automate attendance. | Python |[Live](https://saikalyan-portfolio.vercel.app/) |
+| [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores. | Python | [Live](https://saikalyan-portfolio.vercel.app/) |
 
 
 ## Tech Stack
