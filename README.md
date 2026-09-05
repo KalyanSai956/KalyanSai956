@@ -2,7 +2,7 @@
 
 > I build intelligent software that solves real-world problems.
 
-AI Engineer and Full Stack Developer building AI-powered applications, machine learning systems, and scalable web platforms, with a focus on RAG, LLMs, and AWS.
+AI Engineer building AI-powered applications, machine learning systems, and scalable web platforms, with a focus on RAG, LLMs, and AWS.
 
 ---
 ## What I've built
