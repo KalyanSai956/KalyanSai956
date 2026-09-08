@@ -1,7 +1,5 @@
 # Hi, I'm Pasupuleti Sai Kalyan 👋
 
-> I build intelligent software that solves real-world problems.
-
 AI Engineer building AI-powered applications, machine learning systems, and scalable web platforms, with a focus on RAG, LLMs, and AWS.
 
 ---
@@ -19,17 +17,7 @@ AI Engineer building AI-powered applications, machine learning systems, and scal
 `JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `MySQL` `Supabase` `Docker` `Kubernetes` `Git` `GitHub` `REST APIs` `JWT` `Tailwind CSS` `Vite` `Streamlit``AI/ML`
 
 ---
-## Find me
 
-Portfolio → [https://saikalyan-portfolio.vercel.app/](https://saikalyan-portfolio.vercel.app/)
-
-GitHub → [https://github.com/KalyanSai956](https://github.com/KalyanSai956)
-
-LinkedIn → [https://linkedin.com/in/saikalyanpasupuleti/](https://linkedin.com/in/saikalyanpasupuleti/)
-
-Twitter → [https://x.com/kalyanworkspace](https://x.com/kalyanworkspace)
-
-Email → [kalyansai956@gmail.com](mailto:kalyansai956@gmail.com)
 
 ---
 
