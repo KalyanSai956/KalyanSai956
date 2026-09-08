@@ -6,12 +6,12 @@ AI Engineer building AI-powered applications, machine learning systems, and scal
 
 ---
 ## What I've built
-| **Project** | **What it does** | **Stack** | **Live** |
-|---|---|---|---|
-| [MeetMind](https://github.com/KalyanSai956) | AI-powered meeting platform designed to improve productivity by combining real-time collaboration with intelligent focus detection. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
-| [CarePlus](https://github.com/KalyanSai956) | Full-stack pharmacy management platform for managing medicines, inventory, sales and invoices. | JavaScript | [Live](https://saikalyan-portfolio.vercel.app/) |
-| [AttendAI](https://github.com/KalyanSai956) | AI-powered attendance system using face and voice recognition to identify students and automate attendance. | Python |[Live](https://saikalyan-portfolio.vercel.app/) |
-| [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores. | Python | [Live](https://saikalyan-portfolio.vercel.app/) |
+| **Project**                                      | **What it does**                                                                                                                                         | **Stack**                      | **Live**                                        |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |
+| [Code Guardian](https://github.com/KalyanSai956) | AI-powered code review platform that analyzes GitHub repositories, identifies code quality issues, and provides actionable improvement suggestions.      | JavaScript, Node.js, AI/LLMs   | [Live](https://saikalyan-portfolio.vercel.app/) |
+| [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores and personalized feedback. | Python, AI/ML                  | [Live](https://saikalyan-portfolio.vercel.app/) |
+| [AttendAI](https://github.com/KalyanSai956)      | AI-powered attendance system using face and voice recognition to identify students and automate attendance.                                              | Python, Computer Vision, AI/ML | [Live](https://saikalyan-portfolio.vercel.app/) |
+
 
 
 ## Tech Stack
