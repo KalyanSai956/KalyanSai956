@@ -10,7 +10,7 @@ AI Engineer building AI-powered applications, machine learning systems, and scal
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |
 | [Code Guardian](https://github.com/KalyanSai956) | AI-powered code review platform that analyzes GitHub repositories, identifies code quality issues, and provides actionable improvement suggestions.      | JavaScript, Node.js, AI/LLMs   | [Live](https://saikalyan-portfolio.vercel.app/) |
 | [SmartHire ATS](https://github.com/KalyanSai956) | AI-powered Applicant Tracking System that analyzes resumes, matches candidates with job descriptions, and provides ATS scores and personalized feedback. | Python, AI/ML                  | [Live](https://saikalyan-portfolio.vercel.app/) |
-| [AttendAI](https://github.com/KalyanSai956)      | AI-powered attendance system using face and voice recognition to identify students and automate attendance.                                              | Python, Computer Vision, AI/ML | [Live](https://saikalyan-portfolio.vercel.app/) |
+| [AttendAI](https://github.com/KalyanSai956/Attendai-app)      | AI-powered attendance system using face and voice recognition to identify students and automate attendance.                                              | Python, Computer Vision, AI/ML | [Live](https://attend-ai-landing.vercel.app/) |
 
 
 
