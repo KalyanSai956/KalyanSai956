@@ -18,11 +18,3 @@ AI Engineer building AI-powered applications, machine learning systems, and scal
 
 ---
 
-
----
-
-## Most Used Languages
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KalyanSai956&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
