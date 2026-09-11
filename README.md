@@ -1,6 +1,6 @@
 ## Hi, I'm Pasupuleti Sai Kalyan 👋
 
-AI Engineer building AI-powered applications, machine learning systems, and scalable web platforms, with a focus on RAG, LLMs, and AWS.
+AI Engineer building AI-powered applications, machine learning systems, and scalable web platforms.
 
 ---
 ## What I've built
